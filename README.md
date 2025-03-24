@@ -6,7 +6,7 @@ Création d'un composant de carte : aperçu des statistiques en HTML5 et CSS3.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/stat_preview_card_component/
 
 ## Projet développé avec
 
