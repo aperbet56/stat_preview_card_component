@@ -161,3 +161,28 @@ body {
         text-align: center;
     }
 }
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 572px) {
+    .image__container {
+        height: 30%;
+    }
+
+    .image__container {
+        background-image: url(img/image-header-mobile.jpg);
+    }
+
+    .article__container {
+        height: 70%;
+    }
+
+    .article__container__div {
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+
+    .stat {
+        margin-right: 0;
+    }
+}
