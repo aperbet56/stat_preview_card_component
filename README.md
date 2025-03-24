@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Création d'un composant d'une carte : apperçu des statistiques en HTML5 et CSS3.
+Création d'un composant de carte : aperçu des statistiques en HTML5 et CSS3.
 
 ## Démonstration
 
