@@ -16,6 +16,7 @@ Lien vers le projet : https://aperbet56.github.io/stat_preview_card_component/
 - Code CSS commenté
 - Flexbox
 - Importation des polices "Inter" et "Lexend Deca"
+- Variables CSS
 - Utilisation d'un normaliseur : le fichier normalize.css
 - Desktop first
 - Page web responsive
