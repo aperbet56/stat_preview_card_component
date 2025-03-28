@@ -71,6 +71,8 @@ body {
     height: 100%;
     background-color: var(--soft-violet);
     opacity: 0.6;
+    mix-blend-mode: hard-light;
+    /* La propriété mix-blend-mode définit la façon dont le contenu d'un élément doit se mélanger avec le contenu de l'élément parent et avec son arrière-plan. */
 }
 
 .image__container,
