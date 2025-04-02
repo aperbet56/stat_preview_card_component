@@ -1,5 +1,7 @@
 ## STAT PREVIEW CARD COMPONENT
 
+![Design preview for the stat preview card component challenge](./maquettes/desktop-preview.jpg)
+
 ## Le challenge
 
 Création d'un composant de carte : aperçu des statistiques en HTML5 et CSS3.
